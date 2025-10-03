@@ -1,7 +1,8 @@
-Click Blitz - A React Counter Application
+# Click Blitz - A React Counter Application
 Click Blitz is a fun and interactive counter application built with React. It's designed to be more than just a simple counter; it's a speed-clicking game that challenges users to hit a target number of clicks as fast as they can. The app features a sleek, modern, and responsive UI that looks great on both desktop and mobile devices.
+---
 
-Features
+## Features
 Click Counter: A large, satisfying button to increment the count.
 
 Custom Targets: Users can set a specific click target to aim for.
